@@ -1,0 +1,17 @@
+[
+ {
+  "line": "-----BEGIN PRIVATE KEY-----",
+  "lineNumber": 1,
+  "offender": "-----BEGIN PRIVATE KEY-----",
+  "commit": "08e57be41198df93a58422fbbc6420fa3f6561e9",
+  "repo": "sast",
+  "rule": "Asymmetric Private Key",
+  "commitMessage": "init commit\n",
+  "author": "student",
+  "email": "student@student",
+  "file": "src/main/resources/private.key",
+  "date": "2021-03-28T17:29:55+02:00",
+  "tags": "key, AsymmetricPrivateKey",
+  "operation": "addition"
+ }
+]
